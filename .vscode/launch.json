@@ -9,14 +9,19 @@
       "args": [],
       "stopAtEntry": false,
       "cwd": "${fileDirname}",
-      "environment": [],
+      "environment": [
+        {
+          "name": "LANG",
+          "value": "pt_BR.UTF-8"
+        }
+      ],
       "externalConsole": true,
       "MIMode": "gdb",
       "miDebuggerPath": "C:\\mingw64\\bin\\gdb.exe",
       "setupCommands": [
         {
-          "description": "Enable pretty-printing for gdb",
-          "text": "-enable-pretty-printing",
+          "description": "Ativar charset UTF-8 no GDB",
+          "text": "set charset UTF-8",
           "ignoreFailures": true
         }
       ],

@@ -23,19 +23,7 @@ int main() {
                 char *posicao = strstr(nomes, nome_remover);
                 if(posicao != NULL) {
                     int tamanho_remover = strlen(nome_remover);
-                    for(int i=0 ; i<=tamanho_remover ; i++){
-                        posicao += i;
-                        (*posicao) == "0";
-                    }
-                    char *temp;
-                    do{
-                        temp = strstr(nomes, "0");
-                        if(temp != NULL){
-                            for(int i=0; i<tamanho_remover; i++){
-                                (*temp) == (*temp +1);
-                            };
-                        }
-                    }while(temp != NULL);
+                    strcpy(posicao, (posicao + tamanho_remover));
                     tamanho -= tamanho_remover;
                     printf("Nome removido com sucesso!\n\n");
                 } else {
