@@ -14,7 +14,7 @@ Saída esperada: res["6"]
 [Resultado LeetCode](https://leetcode.com/problems/multiply-strings/submissions/2131198350)
 <img width="695" height="675" alt="{67D40FFE-C506-42F6-BDE1-60F1F6DB5C7C}" src="https://github.com/user-attachments/assets/20435af2-c8b5-4170-91b3-9cbbd37e9afc" />
 
-_1.
+1.
 num1 = "9" ;
 num2 = "9";
 res = "81".
@@ -24,7 +24,7 @@ num1 = "0";
 num2 = "0";
 res = "0".
   
-4.
+3.
 num1 = "98765432109876543210";
 num2 = "12345678901234567890";
-res = "1219326311370217952237463801111263526900"._
+res = "1219326311370217952237463801111263526900".
