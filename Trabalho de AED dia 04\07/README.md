@@ -12,6 +12,8 @@ Saída esperada: res["6"]
 
 # Testes: 
 [Resultado LeetCode](https://leetcode.com/problems/multiply-strings/submissions/2131198350)
+
+
 <img width="695" height="675" alt="{67D40FFE-C506-42F6-BDE1-60F1F6DB5C7C}" src="https://github.com/user-attachments/assets/20435af2-c8b5-4170-91b3-9cbbd37e9afc" />
 
 1.
