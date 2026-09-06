@@ -1,4 +1,4 @@
-##### Miguel Angelo Gonzatto Chiacchio Filho
+##### Miguel Angelo Gonzatto Chiacchio Filho M1
 
 #### Problema:
 __Multiplicar 2 strings de tamanho indefinido contendo somente números e devolver uma string com o resultado.__
