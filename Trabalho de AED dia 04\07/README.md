@@ -7,7 +7,7 @@ __Multiplicar 2 strings de tamanho indefinido contendo somente números e devolv
 Entrada: num1["2"] e num2["3"].
 Saída esperada: res["6"]
 
-##Proibido: Transformar caracteres em inteiros, usar bibliotecas que permitem aumentar o tamanho máximo de inteiros.
+## Proibido: Transformar caracteres em inteiros, usar bibliotecas que permitem aumentar o tamanho máximo de inteiros.
 >IMPORTANTE: o problema não específica o tamanho das strings, por isso terá que ser usado alocação dinâmica.
 
 # Testes: 
