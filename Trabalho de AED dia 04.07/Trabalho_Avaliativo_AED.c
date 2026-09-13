@@ -87,7 +87,7 @@
 	long long antes mesmo da multiplicacao. O teste 10 deste arquivo
 	usa exatamente esse caso; qualquer atalho acima quebra nele.
 
-===============================================================================
+============================================================================BB===
 */
 
 #include <stdio.h>

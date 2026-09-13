@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "tasks": [
     // --- OPÇÃO ATIVA: Clang com ASan (Análise de Memória) ---
-   /*  {
+    {
       "type": "cppbuild",
       "label": "C/C++: gcc.exe build active file",
       "command": "C:\\msys64\\clang64\\bin\\clang.exe",
@@ -26,11 +26,11 @@
         "isDefault": true
       },
       "detail": "compiler: C:\\msys64\\clang64\\bin\\clang.exe"
-    } */
+    }
 
     
     // --- OPÇÃO COMENTADA: GCC Original (Sem ASan) ---
-    {
+    /* {
       "type": "cppbuild",
       "label": "C/C++: gcc.exe build active file",
       "command": "C:\\mingw64\\bin\\gcc.exe",
@@ -52,7 +52,7 @@
         "isDefault": true
       },
       "detail": "compiler: C:\\mingw64\\bin\\gcc.exe"
-    }
+    } */
    
   ]
 }
